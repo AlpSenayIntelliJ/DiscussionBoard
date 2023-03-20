@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * @author Michael Kölling and David J. Barnes
  * @version 0.1
  */
-public class MessagePost
+public class    MessagePost
 {
     private String username;  // username of the post's author
     private String message;   // an arbitrarily long, multi-line message
